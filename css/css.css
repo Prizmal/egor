@@ -1,0 +1,17 @@
+
+.first{
+    font-size: 2rem;
+    }
+    .color{
+        background-color: aquamarine;
+    }
+    .qv{
+    height: 50px;
+    width: 50px;
+    background-color: cadetblue;
+    border: 1px solid black;
+    }
+    .flex{
+    display: flex;   
+    flex-wrap: wrap;
+    }
