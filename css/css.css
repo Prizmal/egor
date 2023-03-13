@@ -1,31 +1,39 @@
-
-.first{
+.first {
     font-size: 2rem;
-    }
-    .color{
-        background-color: aquamarine;
-    }
-    .qv{
+}
+
+.color {
+    background-color: aquamarine;
+}
+
+.qv {
     height: 50px;
     width: 50px;
     background-color: cadetblue;
     border: 1px solid black;
-    }
-    .qva{
+}
+
+.qva {
     height: 100px;
     width: 100px;
-    border: 1px solid black;   
+    border: 1px solid black;
     text-align: center;
     background-color: gold;
-    }
-    .flex{
-display: flex;
-justify-content: center;
-    }
-    .neqva{
-height: 150px;
-width: 100px;
-background-color: greenyellow;
-justify-content: end;
+}
 
-    }
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.neqva {
+    height: 150px;
+    width: 100px;
+    background-color: greenyellow;
+    justify-content: end;
+}
+.grid{
+display: grid;
+height: 500px;
+width: 500px;
+}
